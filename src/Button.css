@@ -1,0 +1,22 @@
+.titulo:hover{
+    background-color: #0085A1;
+    color: #FFF;
+    border-style: 0 0px #fff;
+
+}
+.botao{
+    margin: 5px;
+    flex-basis: 10px;
+}
+.titulo{
+    background-color: #fff;
+    border:1px solid rgb(228, 228, 228);
+    color: #000;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 75px;
+    border-radius: 3px;
+}
+p{
+    font-weight: 800;
+}
